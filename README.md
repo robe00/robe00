@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robe00
-- 👀 I’m interested in Data Science, python, R
+- 👀 I’m interested in Data Science, python, R, ServiceNow
 - 🌱 I’m currently learning to explore deep data lakes
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
